@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\bin\Debug\net6.0\BovinoFarmWeb.DAL.deps.json
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\bin\Debug\net6.0\BovinoFarmWeb.DAL.runtimeconfig.json
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\bin\Debug\net6.0\BovinoFarmWeb.DAL.dll
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\bin\Debug\net6.0\BovinoFarmWeb.DAL.pdb
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\BovinoFarmWeb.DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\BovinoFarmWeb.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\BovinoFarmWeb.DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\BovinoFarmWeb.DAL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\BovinoFarmWeb.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\BovinoFarmWeb.DAL.dll
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\refint\BovinoFarmWeb.DAL.dll
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\BovinoFarmWeb.DAL.pdb
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\BovinoFarmWeb.DAL.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BovinoFarmWeb\BovinoFarmWeb.DAL\obj\Debug\net6.0\ref\BovinoFarmWeb.DAL.dll

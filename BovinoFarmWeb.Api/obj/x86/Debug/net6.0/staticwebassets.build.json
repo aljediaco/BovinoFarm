@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6G5/Y+PQ5Aq7lBf6HyehZUceBi3s8DIPzCdlwBVpRO0=",
+  "Source": "BovinoFarmWeb.Api",
+  "BasePath": "_content/BovinoFarmWeb.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

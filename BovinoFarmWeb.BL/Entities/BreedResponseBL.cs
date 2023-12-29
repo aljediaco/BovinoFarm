@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BovinoFarmWeb.BL.Entities
+{
+    public class BreedResponseBL
+    {
+        public string IdBreed { get; set; }
+        public string Name { get; set; }
+    }
+}

@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BovinoFarmWeb.Api/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BovinoFarmWeb.BL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BovinoFarmWeb.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BovinoFarmWeb.Api.dll": {}
+        }
+      },
+      "BovinoFarmWeb.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BovinoFarmWeb.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BovinoFarmWeb.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BovinoFarmWeb.BL.dll": {}
+        }
+      },
+      "BovinoFarmWeb.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BovinoFarmWeb.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BovinoFarmWeb.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BovinoFarmWeb.Api/1.0.0": {
+      "type": "project",
+      "path": "../BovinoFarmWeb.Api/BovinoFarmWeb.Api.csproj",
+      "msbuildProject": "../BovinoFarmWeb.Api/BovinoFarmWeb.Api.csproj"
+    },
+    "BovinoFarmWeb.BL/1.0.0": {
+      "type": "project",
+      "path": "../BovinoFarmWeb.BL/BovinoFarmWeb.BL.csproj",
+      "msbuildProject": "../BovinoFarmWeb.BL/BovinoFarmWeb.BL.csproj"
+    },
+    "BovinoFarmWeb.DAL/1.0.0": {
+      "type": "project",
+      "path": "../BovinoFarmWeb.DAL/BovinoFarmWeb.DAL.csproj",
+      "msbuildProject": "../BovinoFarmWeb.DAL/BovinoFarmWeb.DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BovinoFarmWeb.Api >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\BovinoFarm\\BovinoFarmWeb.Test.Api\\BovinoFarmWeb.Test.Api.csproj",
+      "projectName": "BovinoFarmWeb.Test.Api",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\BovinoFarm\\BovinoFarmWeb.Test.Api\\BovinoFarmWeb.Test.Api.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\BovinoFarm\\BovinoFarmWeb.Test.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\ASUS\\source\\repos\\BovinoFarm\\BovinoFarmWeb.Api\\BovinoFarmWeb.Api.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\source\\repos\\BovinoFarm\\BovinoFarmWeb.Api\\BovinoFarmWeb.Api.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
